@@ -1,4 +1,4 @@
-# CM Design Patterns V0.1.0
+# CM Design Patterns v0.1.0
 
 CM Design Patterns is a platform independent package for design patterns like Command, Factory, Singleton etc...
 
